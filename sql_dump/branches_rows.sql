@@ -1,0 +1,1 @@
+INSERT INTO "public"."branches" ("branch_id", "detail") VALUES ('0c38c013-5fea-45e7-a07a-585510524108', 'Siam Square');

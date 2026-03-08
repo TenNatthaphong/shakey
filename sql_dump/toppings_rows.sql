@@ -1,0 +1,1 @@
+INSERT INTO "public"."toppings" ("topping_id", "name", "price", "created_at") VALUES ('1446bdec-3437-484b-8df1-6c8428fb2a72', 'Wafer', '10', '2026-03-01 22:15:22.12229'), ('f2ef04f6-6a43-41af-be90-015f462e7acb', 'Oreo', '10', '2026-03-01 22:15:47.330691');
