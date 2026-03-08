@@ -1,0 +1,22 @@
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.lock
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+
+# Build and Logs
+dist/
+build/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
